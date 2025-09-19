@@ -1,4 +1,6 @@
-# Sitar Indian Restaurant
+<div align="center">
+  <h1>Sitar Indian Restaurant</h1>
+</div>
 
 At Sitar Indian Restaurant we offer meals of excellent quality and invite you to try our delicious food.
 
