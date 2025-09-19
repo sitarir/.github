@@ -1,4 +1,7 @@
 <div align="center">
+  <a href="https://www.sitar.com.au/">
+    <img src="images/sitar-logo.jpeg" alt="Sitar Indian Restaurant logo">
+  </a>
   <h1>Sitar Indian Restaurant</h1>
 </div>
 
